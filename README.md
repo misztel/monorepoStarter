@@ -1,2 +1,2 @@
-# monorepoStarter
-Monorepo React + Node Starter
+# MonorepoStarter
+Starter for MERN stack apps with lerna
