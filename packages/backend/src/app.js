@@ -64,7 +64,7 @@ mongoose.set('useNewUrlParser', true);
 mongoose.set('useUnifiedTopology', true);
 mongoose
   .connect(
-    'mongodb+srv://FeederAdmin:2g0hTU2nByaSREmH@feedercluster.gejw5.mongodb.net/FeederDatabase'
+    'YOUR MONGODB ACCESS URI'
   )
   .then(() => {
     app.listen(8080);
